@@ -1,3 +1,4 @@
+console.log("Protect,js linked properly.");
 // Variables booleanas para controlar si se ejecutan las funciones
 var preventContextMenu = false;
 var preventCopyCutPaste = false;
