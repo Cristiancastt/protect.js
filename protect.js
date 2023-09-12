@@ -30,6 +30,38 @@ var preventReloadShortcut = false;
 var preventZoomShortcut = false;
 var preventAddressBarShortcut = false;
 
+/*
+var preventContextMenu = true;
+var preventCopyCutPaste = true;
+var preventKeyboardShortcuts = true;
+var preventRightClick = true;
+var preventTextSelection = true;
+var preventDragAndDrop = true;
+var preventPrint = true;
+var preventAltKey = true;
+var preventEscapeKey = true;
+var preventTabKey = true;
+var preventDevShortcuts = true;
+var preventPrintShortcut = true;
+var preventInputText = true;
+var preventDragImages = true;
+var preventBackspaceKey = true;
+var preventForwardNavigation = true;
+var preventFileDragAndDrop = true;
+var preventConsoleOutput = true;
+var preventPopupWindows = true;
+var preventEnterKey = true;
+var preventSpecificSelection = true;
+var preventCopyShortcut = true;
+var preventPasteShortcut = true;
+var preventCutShortcut = true;
+var preventElementDisabledInteraction = true;
+var preventEscapeInInputText = true;
+var preventReloadShortcut = true;
+var preventZoomShortcut = true;
+var preventAddressBarShortcut = true;
+*/
+
 function preventDefault(event) {
   event.preventDefault();
 }
